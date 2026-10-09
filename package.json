@@ -1,0 +1,22 @@
+{
+  "name": "citysmart-explorer",
+  "version": "1.0.0",
+  "description": "Intelligent city exploration platform — Explore Smarter. Travel Safer.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "citysmart",
+    "travel",
+    "safety",
+    "urban-exploration",
+    "smart-score",
+    "pune"
+  ],
+  "author": "CitySmart Explorer Team",
+  "license": "MIT"
+}
